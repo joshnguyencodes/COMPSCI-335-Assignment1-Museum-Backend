@@ -158,3 +158,4 @@
 /Users/nmjos/Documents/University/COMPSCI 335/A1Template/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
 /Users/nmjos/Documents/University/COMPSCI 335/A1Template/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
 /Users/nmjos/Documents/University/COMPSCI 335/A1Template/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/nmjos/Documents/University/COMPSCI 335/A1Template/obj/Debug/net8.0/A1.sourcelink.json

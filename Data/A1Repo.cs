@@ -49,7 +49,7 @@ namespace Data
         {
             IEnumerable<Comment> comments = _dbContext.Comments.ToList();
 
-            return comments.TakeLast(numComment);  
+            return comments.TakeLast(numComment).Reverse();  
 
         }
 
